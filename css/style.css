@@ -407,6 +407,10 @@ html {
 }
 
 /*page*/
+.page {
+  position: relative;
+	z-index: 0;
+}
 .page__main {
   margin: 140px 0px 120px 0px;
 }
